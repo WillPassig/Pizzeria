@@ -1,0 +1,271 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Documents\\Software Projects\\Pizzeria\\Pizzeria.Data.Tests\\Pizzeria.Data.Tests.csproj": {}
+  },
+  "projects": {
+    "E:\\Documents\\Software Projects\\Pizzeria\\Pizzeria.Common.Tests\\Pizzeria.Common.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Documents\\Software Projects\\Pizzeria\\Pizzeria.Common.Tests\\Pizzeria.Common.Tests.csproj",
+        "projectName": "Pizzeria.Common.Tests",
+        "projectPath": "E:\\Documents\\Software Projects\\Pizzeria\\Pizzeria.Common.Tests\\Pizzeria.Common.Tests.csproj",
+        "packagesPath": "C:\\Users\\Passig\\.nuget\\packages\\",
+        "outputPath": "E:\\Documents\\Software Projects\\Pizzeria\\Pizzeria.Common.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Passig\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\Documents\\Software Projects\\Pizzeria\\Pizzeria.Domain\\Pizzeria.Domain.csproj": {
+                "projectPath": "E:\\Documents\\Software Projects\\Pizzeria\\Pizzeria.Domain\\Pizzeria.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Documents\\Software Projects\\Pizzeria\\Pizzeria.Data.Tests\\Pizzeria.Data.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Documents\\Software Projects\\Pizzeria\\Pizzeria.Data.Tests\\Pizzeria.Data.Tests.csproj",
+        "projectName": "Pizzeria.Data.Tests",
+        "projectPath": "E:\\Documents\\Software Projects\\Pizzeria\\Pizzeria.Data.Tests\\Pizzeria.Data.Tests.csproj",
+        "packagesPath": "C:\\Users\\Passig\\.nuget\\packages\\",
+        "outputPath": "E:\\Documents\\Software Projects\\Pizzeria\\Pizzeria.Data.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Passig\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\Documents\\Software Projects\\Pizzeria\\Pizzeria.Common.Tests\\Pizzeria.Common.Tests.csproj": {
+                "projectPath": "E:\\Documents\\Software Projects\\Pizzeria\\Pizzeria.Common.Tests\\Pizzeria.Common.Tests.csproj"
+              },
+              "E:\\Documents\\Software Projects\\Pizzeria\\Pizzeria.Data\\Pizzeria.Data.csproj": {
+                "projectPath": "E:\\Documents\\Software Projects\\Pizzeria\\Pizzeria.Data\\Pizzeria.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.10.0, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Documents\\Software Projects\\Pizzeria\\Pizzeria.Data\\Pizzeria.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Documents\\Software Projects\\Pizzeria\\Pizzeria.Data\\Pizzeria.Data.csproj",
+        "projectName": "Pizzeria.Data",
+        "projectPath": "E:\\Documents\\Software Projects\\Pizzeria\\Pizzeria.Data\\Pizzeria.Data.csproj",
+        "packagesPath": "C:\\Users\\Passig\\.nuget\\packages\\",
+        "outputPath": "E:\\Documents\\Software Projects\\Pizzeria\\Pizzeria.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Passig\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\Documents\\Software Projects\\Pizzeria\\Pizzeria.Domain\\Pizzeria.Domain.csproj": {
+                "projectPath": "E:\\Documents\\Software Projects\\Pizzeria\\Pizzeria.Domain\\Pizzeria.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Documents\\Software Projects\\Pizzeria\\Pizzeria.Domain\\Pizzeria.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Documents\\Software Projects\\Pizzeria\\Pizzeria.Domain\\Pizzeria.Domain.csproj",
+        "projectName": "Pizzeria.Domain",
+        "projectPath": "E:\\Documents\\Software Projects\\Pizzeria\\Pizzeria.Domain\\Pizzeria.Domain.csproj",
+        "packagesPath": "C:\\Users\\Passig\\.nuget\\packages\\",
+        "outputPath": "E:\\Documents\\Software Projects\\Pizzeria\\Pizzeria.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Passig\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

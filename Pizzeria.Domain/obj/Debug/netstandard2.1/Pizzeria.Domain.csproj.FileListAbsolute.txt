@@ -1,0 +1,10 @@
+E:\Documents\Software Projects\Pizzeria\Pizzeria.Domain\bin\Debug\netstandard2.1\Pizzeria.Domain.deps.json
+E:\Documents\Software Projects\Pizzeria\Pizzeria.Domain\bin\Debug\netstandard2.1\Pizzeria.Domain.dll
+E:\Documents\Software Projects\Pizzeria\Pizzeria.Domain\bin\Debug\netstandard2.1\Pizzeria.Domain.pdb
+E:\Documents\Software Projects\Pizzeria\Pizzeria.Domain\obj\Debug\netstandard2.1\Pizzeria.Domain.csproj.AssemblyReference.cache
+E:\Documents\Software Projects\Pizzeria\Pizzeria.Domain\obj\Debug\netstandard2.1\Pizzeria.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Software Projects\Pizzeria\Pizzeria.Domain\obj\Debug\netstandard2.1\Pizzeria.Domain.AssemblyInfoInputs.cache
+E:\Documents\Software Projects\Pizzeria\Pizzeria.Domain\obj\Debug\netstandard2.1\Pizzeria.Domain.AssemblyInfo.cs
+E:\Documents\Software Projects\Pizzeria\Pizzeria.Domain\obj\Debug\netstandard2.1\Pizzeria.Domain.csproj.CoreCompileInputs.cache
+E:\Documents\Software Projects\Pizzeria\Pizzeria.Domain\obj\Debug\netstandard2.1\Pizzeria.Domain.dll
+E:\Documents\Software Projects\Pizzeria\Pizzeria.Domain\obj\Debug\netstandard2.1\Pizzeria.Domain.pdb
